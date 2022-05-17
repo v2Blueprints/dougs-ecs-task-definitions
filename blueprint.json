@@ -1,5 +1,5 @@
 {
-	"identifier": "doug_ecs_task_definition",
+	"identifier": "doug_ecs_task_definitions",
 	"about": {
 		"title": "Doug task definition ",
 		"explanation": "ECS task definitions for Dougs Elastic Container Service"
